@@ -1,0 +1,22 @@
+a:4:{s:8:"template";s:7:"arrival";s:4:"mods";a:13:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:7:"primary";i:3;s:6:"footer";i:4;}s:18:"custom_css_post_id";i:41;s:21:"portframe_ftr_btn_url";s:1:"#";s:27:"portframe_footer_title_text";s:13:"Let’s Talk?";s:21:"portframe_ftr_btn_txt";s:12:"Let’s Chat";s:21:"portframe_footer_logo";s:77:"https://demo.wpoperation.com/portframe/wp-content/uploads/2020/11/pf-logo.png";s:11:"custom_logo";i:24;s:16:"header_textcolor";s:5:"blank";s:39:"arrival_main_nav_menu_color_transparent";s:7:"#ffffff";s:26:"arrival_nav_header_padding";s:1:"0";s:20:"arrival_social_icons";s:222:"[{"social_icons":"facebook","social_url":"#"},{"social_icons":"dribbble","social_url":"#"},{"social_icons":"github","social_url":"#"},{"social_icons":"instagram","social_url":"#"},{"social_icons":"skype","social_url":"#"}]";s:19:"arrival_theme_color";s:7:"#ff2e63";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:484:".pframe-span span {
+    display: block;
+    background: #FF2E63;
+    color: #fff;
+    font-size: 14px;
+    vertical-align: middle;
+    display: inline-block;
+    padding: 5px 10px;
+}
+figure.gallery-item {
+    position: relative;
+}
+.pf-portfolio .wp-caption-text.gallery-caption {
+    position: absolute;
+    background: #333;
+    top: 50%;
+    left: 50%;
+    width: auto;
+    transform: translate(-50%, -50%);
+    padding: 5px 15px;
+    box-shadow: 1px 1px 11px 2px rgba(0,0,0,0.3);
+}";}
